@@ -12,7 +12,7 @@
 | Этап | № | Задание | Папка | Статус |
 |------|---|---------|-------|--------|
 | Верхнеуровневый анализ | 1 | Vision & Scope | [01-vision-scope](01-vision-scope/) | ✅ Готово |
-| Верхнеуровневый анализ | 2 | Use Case Diagram | [02-use-case-diagram](02-use-case-diagram/) | В работе |
+| Верхнеуровневый анализ | 2 | Use Case Diagram | [02-use-case-diagram](02-use-case-diagram/) | ✅ Готово |
 | Анализ предметной области | 3 | Activity Diagrams (2–3 процесса) | [03-activity-diagrams](03-activity-diagrams/) | В работе |
 | Анализ предметной области | 4 | Термины, бизнес-правила, сущности | [04-domain-model](04-domain-model/) | ✅ Готово |
 
